@@ -11,3 +11,4 @@ A simple Python tool for cleaning Excel and CSV files ,removing duplicates,handi
 - [tests/test_cleaning.py]：16 项核心与导入导出测试。
 如何启动
 直接双击 [run.bat]。浏览器通常会自动打开；
+有问题联系zchen8194@Gmail.com
